@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Shizuru&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Shizuru&display=swap");
 
 .first-section {
   background: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNyZWF0aXZlJTIwZGVzaWdufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=160")
@@ -27,17 +27,20 @@
 }
 .my-name {
   font-weight: bold;
-  font-family: ;
+  font-family: "PT Serif", serif;
 }
 
 .about-me {
   padding: 5%;
-  color: black;
+  background-color: black;
 }
 .intro {
   font-family: "Shizuru", cursive;
   text-transform: uppercase;
 }
 .photo {
-  padding: 5%;
+}
+.dp {
+  width: 80%;
+  max-width: 100%;
 }
