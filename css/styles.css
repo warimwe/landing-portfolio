@@ -1,5 +1,5 @@
 .first-section {
-  background: url("https://images.unsplash.com/photo-1573164713988-8665fc963095?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1400&q=80")
+  background: url("https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGNyZWF0aXZlJTIwZGVzaWdufGVufDB8MHwwfHw%3D&auto=format&fit=crop&w=500&q=160")
     no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -25,4 +25,14 @@
 }
 .my-name {
   font-weight: bold;
+}
+
+.about-me {
+  padding: 5%;
+  color: black;
+}
+.creative {
+}
+.photo {
+  padding: 5%;
 }
