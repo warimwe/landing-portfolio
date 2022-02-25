@@ -41,9 +41,20 @@
 .photo {
 }
 .dp {
-  width: 80%;
+  width: 90%;
   max-width: 100%;
+  object-fit: fill;
+  max-height: 100%;
 }
 .other-projects {
   background-color: black;
+}
+.hobbies {
+  float: left;
+}
+.skills {
+  float: right;
+}
+.creative {
+  color: black;
 }
