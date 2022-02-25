@@ -7,6 +7,7 @@
 ## Description
 
 The website entails an "about me" section providing details about myself. It outlines my background educational and professional details. It also includes previous projects, my hobbies and skills.
+You can access this site using this link: https://warimwe.github.io/landing-portfolio
 
 ## Usage
 
